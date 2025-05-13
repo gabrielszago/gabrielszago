@@ -22,7 +22,6 @@ Performance web
 Aplicações escaláveis e bem organizadas
 
 📫 Como falar comigo:
-LinkedIn
 
 Email: gabriel.stabile.zago@gmail.com
 
