@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Olá! Eu sou o Gabriel
+Sou desenvolvedor apaixonado por criar soluções modernas, funcionais e bem estruturadas. Tenho experiência com diversas tecnologias do ecossistema web, tanto no frontend quanto no backend.
 
-<!--
-**gabrielszago/gabrielszago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tecnologias que já utilizei:
+Frontend: React.js, Next.js, TypeScript, JavaScript, HTML, CSS
+Backend: PHP (com Symfony), Node.js
+Template Engines: Twig
+Banco de Dados: MySQL, SqlServer
+Outros: Git, GitHub, GitLab, APIs, Docker
 
-Here are some ideas to get you started:
+🚀 Atualmente:
+Me aprofundo cada vez mais em React e Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou criando aplicações modernas e responsivas com foco em experiência do usuário
+Explorando melhorias de performance, acessibilidade e boas práticas de desenvolvimento
+
+🎯 Interesses:
+Sistemas inteligentes
+
+Performance web
+
+Aplicações escaláveis e bem organizadas
+
+📫 Como falar comigo:
+LinkedIn
+Email: gabriel.stabile.zago@gmail.com
