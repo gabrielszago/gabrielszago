@@ -24,3 +24,4 @@ Aplicações escaláveis e bem organizadas
 📫 Como falar comigo:
 LinkedIn
 Email: gabriel.stabile.zago@gmail.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielszago&theme=dark&show_icons=true)
